@@ -6,7 +6,7 @@ import urllib.request
  
 app = Flask(__name__)
 
-UPLOAD_FOLDER = 'e:\\BAP\\see_2\\static\\uploads'
+UPLOAD_FOLDER = 'e:\\BAP\\see_2\\static\\uploads'#enter the path of the file where ou have to upload the image.
 
  
 app = Flask(__name__)
